@@ -155,5 +155,5 @@ export default function App() {
 
 // npm install json-server
 // add script server in json file
-
 // npm run server
+// npm start
